@@ -1,6 +1,6 @@
 # Fastr
 
-Back in 2013 I started with Fastr, a Dutch social media platform for your car. You can create a profile for your car, add your specifications and modifications including pictures, share everything easily with auto generated images (see below), join car clubs and I'd tons of other ideas like a calander with events and stuff. It's hard to get users and promote it so there are a handfull of users which created a profile once and never looked back. It's still online for my own car but nobody is actively using it.
+Back in 2013 I started with Fastr, a Dutch social media platform for your car. You can create a profile for your car, add your specifications and modifications including pictures, share everything easily with auto generated images (see below), join car clubs and I'd tons of other ideas like a calander with events and stuff. It's hard to get users and promote it so there are a handfull of users which created a profile once and never looked back. It's still online for my own car but nobody is actively using it. For more information see my Dutch blog post about the platform: https://royduineveld.nl/social-media-voor-je-auto/
 
 ## Why do you share this?
 
