@@ -20,7 +20,7 @@
 		<script src="<?=site_url('js/main.'.config_item('website_version').'.js');?>"></script>
 		<?=(isset($js) ? '<script src="'.site_url('js/'.$js.'.'.config_item('website_version').'.js').'"></script>' : '');?>
 		<script>
-			var _gaq=[['_setAccount','UA-41042435-1'],['_trackPageview']];
+			var _gaq=[['_setAccount','XX-XXXXXXXX-X'],['_trackPageview']];
 			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
 			g.src='//www.google-analytics.com/ga.js';
 			s.parentNode.insertBefore(g,s)}(document,'script'));
