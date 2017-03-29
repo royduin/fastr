@@ -15,6 +15,7 @@ When my car breaks or I buy another one I don't feel the need to keep it online.
 
 - Check all variables in the config files in `public/application/config/`
 - Import the database `database.sql`
+- Make sure `short_open_tag` is enabled, see: http://php.net/manual/en/ini.core.php#ini.short-open-tag
 
 ## Questions? Bugs?
 
